@@ -1,0 +1,19 @@
+{
+  "name": "server",
+  "version": "1.0.0",
+  "description": "",
+  "main": "crwn-clothin.server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/jaleelktc/crwn-clothin.git"
+  },
+  "author": "jaleel",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jaleelktc/crwn-clothin/issues"
+  },
+  "homepage": "https://github.com/jaleelktc/crwn-clothin#readme"
+}
